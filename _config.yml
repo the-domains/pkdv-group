@@ -1,6 +1,6 @@
 name: Global. Business. Advisory.
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73202
 typography_spectrum: 0.75764
 title: PKDV Group
 cta:
@@ -23,7 +23,7 @@ color:
     - '#627ea5'
     - '#746f65'
   brandStrength: 0.875
-  lightness: 0.7080380462575704
+  lightness: 0.25
   saturation: 0.7940118601545691
   rhythmicContrast: 0.75
 purpose: []
