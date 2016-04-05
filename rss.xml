@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PKDV Group]]></title>
         <description><![CDATA[PKDV Group]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://pkdv.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 11:25:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 11:29:54 GMT</lastBuildDate>
+        <atom:link href="http://pkdv.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Global. Business. Advisory.</p>]]></description>
-            <link>undefinedglobal-business-advisory/index.html</link>
+            <link>http://pkdv.io/global-business-advisory/index.html</link>
             <guid isPermaLink="false">df1f2200-200a-4989-a65b-2c928060b472</guid>
-            <pubDate>Tue, 05 Apr 2016 11:24:27 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 11:28:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
