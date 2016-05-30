@@ -1,37 +1,37 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Excellence in everything
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.73202
-title: Excellence in everything
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.5
+  brandStrength: 0.125
+  lightness: 0.7956989
+  brandColors:
+    - '#6f809b'
+  rhythmicContrast: 0.25
 cta:
   bucket: null
   version: null
   domain: null
-color:
-  saturation: 0.5
-  brandStrength: 0.125
-  rhythmicContrast: 0.25
-  brandColors:
-    - '#6f809b'
-  lightness: 0.5
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: PKDV.IO
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.75764
+layout_spectrum: 0.73202
