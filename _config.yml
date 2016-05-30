@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.5
   brandStrength: 0.125
-  lightness: 0.7956989
+  lightness: 0.6559139
   brandColors:
     - '#6f809b'
   rhythmicContrast: 0.25
@@ -27,8 +27,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: PKDV.IO
+favicon: null
 opengraph:
   image: null
   type: null
